@@ -1,0 +1,2 @@
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih.Tests\obj\Debug\EvidencijaZaposlenih.Tests.csprojAssemblyReference.cache
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih.Tests\obj\Debug\EvidencijaZaposlenih.Tests.csproj.CoreCompileInputs.cache

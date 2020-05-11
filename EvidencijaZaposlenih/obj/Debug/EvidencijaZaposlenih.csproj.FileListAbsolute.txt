@@ -1,0 +1,496 @@
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csprojAssemblyReference.cache
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll.config
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.pdb
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe.config
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.rsp
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe.config
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.rsp
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.AppContext.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Console.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe.config
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.rsp
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Owin.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\WebGrease.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.pdb
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CopyComplete
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.pdb
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.Migrations.initial.resources
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.GenerateResource.cache
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Cors.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.dll
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.xml
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.pdb
+C:\Users\Emil\source\repos\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.pdb
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll.config
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.pdb
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe.config
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.rsp
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe.config
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.rsp
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.AppContext.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Collections.Immutable.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Console.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Compression.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Reflection.Metadata.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.AccessControl.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Claims.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Principal.Windows.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.ValueTuple.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe.config
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.rsp
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe.config
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Web.Infrastructure.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Owin.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Cors.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\WebGrease.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.pdb
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.pdb
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.pdb
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csprojAssemblyReference.cache
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.Migrations.initial.resources
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.GenerateResource.cache
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CoreCompileInputs.cache
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CopyComplete
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.dll
+D:\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.pdb
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll.config
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.pdb
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe.config
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.rsp
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe.config
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.rsp
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.AppContext.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Collections.Immutable.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Console.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Compression.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Reflection.Metadata.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.AccessControl.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Claims.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.ValueTuple.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe.config
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.rsp
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe.config
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Web.Infrastructure.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Owin.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Cors.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\WebGrease.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.pdb
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.pdb
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.pdb
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csprojAssemblyReference.cache
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.Migrations.initial.resources
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.GenerateResource.cache
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CoreCompileInputs.cache
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CopyComplete
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.dll
+D:\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.pdb
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll.config
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EvidencijaZaposlenih.pdb
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.exe.config
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csc.rsp
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.exe.config
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\csi.rsp
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.AppContext.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Collections.Immutable.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Console.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Compression.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.IO.Pipes.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Reflection.Metadata.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.AccessControl.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Claims.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.ValueTuple.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.exe.config
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\vbc.rsp
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\roslyn\VBCSCompiler.exe.config
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Web.Infrastructure.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Owin.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Cors.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\WebGrease.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Net.Http.Formatting.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Cors.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Newtonsoft.Json.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Helpers.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.WebHost.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Mvc.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Optimization.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Razor.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Deployment.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.WebPages.Razor.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Abstractions.pdb
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Unity.Container.pdb
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Antlr3.Runtime.pdb
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\EntityFramework.SqlServer.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Google.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\System.Web.Http.Owin.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csprojAssemblyReference.cache
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.Migrations.initial.resources
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.GenerateResource.cache
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CoreCompileInputs.cache
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.csproj.CopyComplete
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.dll
+D:\MODEL LIBRARY\KURSEVI\FTN INFORMATIKA\.NET WEB DEVELOPMENT8\FINALNI TEST\EvidencijaZaposlenih\EvidencijaZaposlenih\obj\Debug\EvidencijaZaposlenih.pdb
